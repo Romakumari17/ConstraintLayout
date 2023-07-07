@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="staton">Staton</string>
+    <string name="spaceStation">space station</string>
+    <string name="Flight">flight</string>
+    <string name="Run">Run</string>
+</resources>
